@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 Currently working on school projects<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 Currently working on school projects :)<br>
+👯 I’m looking to collaborate on any projects<br>
+🤝 I’m looking for help with nothing<br>
+🌱 I’m currently learning Web Programming<br>
+💬 Ask me about anything<br>
+⚡ Fun fact: Love Sports
 
 
 ## 🌐 Socials:
